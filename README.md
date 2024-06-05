@@ -1,0 +1,1 @@
+Este es un proyecto Web sobre un sistema de inmobiliaria manejado con backend Java, frontend jsp/bootstrap con CSS y JS, Apache Tomcat como servidor entre la base de datos y el backend, y base de datos MariaDB con Dbeaver como administrador de base.
